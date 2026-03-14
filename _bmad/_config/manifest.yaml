@@ -1,0 +1,21 @@
+installation:
+  version: 6.1.0
+  installDate: 2026-03-14T15:25:30.080Z
+  lastUpdated: 2026-03-14T15:25:30.080Z
+modules:
+  - name: core
+    version: 6.1.0
+    installDate: 2026-03-14T15:25:30.080Z
+    lastUpdated: 2026-03-14T15:25:30.080Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.1.0
+    installDate: 2026-03-14T15:25:29.864Z
+    lastUpdated: 2026-03-14T15:25:30.080Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+ides:
+  - github-copilot

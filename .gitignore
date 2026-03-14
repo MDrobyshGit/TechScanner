@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-wal
+*.db-shm
+
+## Secrets
+appsettings.Development.json
+appsettings.Production.json
+
+## Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+## Misc
+.DS_Store
+Thumbs.db
+TechScanner.sln
